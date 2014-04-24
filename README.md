@@ -4,7 +4,7 @@ This repo contains the pear assignment number 2 for the Beginning R.
 The main cachematrix.R file contains all the comments necessary.
 Theres also a test.R used to try the source code.
 
-### -------------------------------------------------------------
+### ----------------------------------------------------------------------------
 
 ### Original readme from https://github.com/rdpeng/ProgrammingAssignment2 
 
